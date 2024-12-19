@@ -66,7 +66,7 @@ getpid: 1
 ppoll: 1
 rt_sigtimedwait: 1
 madvise: 1
-
+gettid: 1
 # added for get qesdk-manager pid
 getsockopt: 1
 
